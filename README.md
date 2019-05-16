@@ -33,4 +33,4 @@ Import - Define - Predict
 
 
 ### Inspiration 
-(GCP AutoML Tables)[https://cloud.google.com/automl-tables/]
+[GCP AutoML Tables](https://cloud.google.com/automl-tables/)
