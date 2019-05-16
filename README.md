@@ -31,3 +31,6 @@ Import - Define - Predict
 
 - NodeJS
 
+
+### Inspiration 
+(GCP AutoML Tables)[https://cloud.google.com/automl-tables/]
