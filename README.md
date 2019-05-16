@@ -9,7 +9,7 @@ Import - Define - Predict
 ### Things you need to perform
 - Import data in csv format
 - Define your schema (categorical / numaric)
-- Analyze your input featurs
+- Analyze your input features
 
 ### Things ML Tables Does for you
 - Featur engineering 
