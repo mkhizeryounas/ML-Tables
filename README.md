@@ -1,10 +1,33 @@
-# express
+# ML Tables
 
-Boilerplate for node express project with mongodb, joi, response middleware &amp; JWT locker
+Automatically build and deploy machine learning models on structured data.
 
-### MongoDB Connection String
+## How it works
+
+Import - Define - Predict
+
+### Things you need to perform
+- Import data in csv format
+- Define your schema (categorical / numaric)
+- Analyze your input featurs
+
+### Things ML Tables Does for you
+- Featur engineering 
+- Model selection
+- Hyperparameter tuning
+- Evaluate model
+- Deploy model
+- Generates an endpoint
 
 
-```
-mongodb://localhost:27017/db
-```
+## Supported Models
+
+- Neural Netowork
+- LSTM
+- RNN
+- Regression
+
+## Technologies
+
+- NodeJS
+
